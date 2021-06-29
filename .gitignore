@@ -5,3 +5,5 @@
 .DS_Store?
 .Spotlight-V??
 .Trashes
+
+/vendor
