@@ -8,8 +8,10 @@
             "email": "marek@mojsvet.sk"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=8"
+    },
     "autoload": {
         "psr-4": { "zeero76\\": "src/" }
     }
