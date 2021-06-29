@@ -27,24 +27,24 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'dev-main',
-    'version' => 'dev-main',
+    'pretty_version' => '1.0.0',
+    'version' => '1.0.0.0',
     'aliases' => 
     array (
     ),
-    'reference' => '3d0ebe6e50b37952ce417e0310744e5b992e7e2c',
+    'reference' => NULL,
     'name' => 'zeero76/hello-world',
   ),
   'versions' => 
   array (
     'zeero76/hello-world' => 
     array (
-      'pretty_version' => 'dev-main',
-      'version' => 'dev-main',
+      'pretty_version' => '1.0.0',
+      'version' => '1.0.0.0',
       'aliases' => 
       array (
       ),
-      'reference' => '3d0ebe6e50b37952ce417e0310744e5b992e7e2c',
+      'reference' => NULL,
     ),
   ),
 );

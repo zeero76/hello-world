@@ -2,6 +2,7 @@
     "name": "zeero76/hello-world",
     "type": "package",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Marek Smatlak",
@@ -11,6 +12,9 @@
     "minimum-stability": "dev",
     "require": {
         "php": ">=8"
+    },
+    "require-dev": {
+
     },
     "autoload": {
         "psr-4": { "zeero76\\": "src/" }
